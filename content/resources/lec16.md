@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Includes topics: Introduction, applications, one dimension: integral
   equation approach, general formulation, and references.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-366-random-walks-and-diffusion-fall-2006/86891f19fee918f574aa14106ff562cb_lec16.pdf
+file: /media/courses/18-366-random-walks-and-diffusion-fall-2006/86891f19fee918f574aa14106ff562cb_lec16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec16.pdf
 uid: 86891f19-fee9-18f5-74aa-14106ff562cb

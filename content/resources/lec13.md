@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Includes topics: Discrete?Markov?processes, continuous?stochastic?processes.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-366-random-walks-and-diffusion-fall-2006/d53e40fbfc776b5d616fa87b424731ce_lec13.pdf
+file: /media/courses/18-366-random-walks-and-diffusion-fall-2006/d53e40fbfc776b5d616fa87b424731ce_lec13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec13.pdf
 uid: d53e40fb-fc77-6b5d-616f-a87b424731ce
