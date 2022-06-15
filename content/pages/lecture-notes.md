@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on lecture topics and associated files
+  for the lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Lecture Notes
 uid: 41244276-2f55-080e-1888-0b9af56fcaa8
 ---
 
-Topics covered in lectures in 2006 are listed below. In some cases, links are given to new lecture notes by student scribes. All scribed lecture notes are used with the permission of the student named in the file. The recommended reading refers to the lectures notes and exam solutions from previous years or to the books listed below. Lecture notes from previous years are also found in the [study materials]({{< baseurl >}}/pages/study-materials) section.
+Topics covered in lectures in 2006 are listed below. In some cases, links are given to new lecture notes by student scribes. All scribed lecture notes are used with the permission of the student named in the file. The recommended reading refers to the lectures notes and exam solutions from previous years or to the books listed below. Lecture notes from previous years are also found in the {{% resource_link 9d04499e-d235-e70a-2c44-99ebecc6b597 "study materials" %}} section.
 
 Recommended Texts
 -----------------
@@ -71,7 +73,7 @@ Mechanisms for Anomalous Diffusion
 {{< tdopen >}}
 
 
-2005 Lecture 1 ([PDF]({{< baseurl >}}/resources/lec01))
+2005 Lecture 1 ({{% resource_link aef0a269-0183-294e-59ea-8cb29f8dd448 "PDF" %}})
 
 Hughes
 
@@ -110,7 +112,7 @@ Markov Chain for the Position (in d Dimensions), Exact Solution by Fourier Trans
 {{< tdopen >}}
 
 
-2005 Lecture 2 ([PDF]({{< baseurl >}}/resources/lec02))
+2005 Lecture 2 ({{% resource_link 52f5cd1a-d731-5858-f275-9bdc2636ba0e "PDF" %}})
 
 Hughes
 
@@ -139,9 +141,9 @@ Continuum Derivation Involving the Diffusion Equation
 {{< tdopen >}}
 
 
-2005 Lecture 1 ([PDF]({{< baseurl >}}/resources/lec01))
+2005 Lecture 1 ({{% resource_link aef0a269-0183-294e-59ea-8cb29f8dd448 "PDF" %}})
 
-2005 Lecture 3 ([PDF]({{< baseurl >}}/resources/lec03))
+2005 Lecture 3 ({{% resource_link f0849581-564c-17f7-cc14-242f37aaa48e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -170,9 +172,9 @@ Width of the Central Region when Third and Fourth Moments Exist
 {{< tdopen >}}
 
 
-2005 Lecture 3 ([PDF]({{< baseurl >}}/resources/lec03))
+2005 Lecture 3 ({{% resource_link f0849581-564c-17f7-cc14-242f37aaa48e "PDF" %}})
 
-2005 Lecture 4 ([PDF]({{< baseurl >}}/resources/lec04))
+2005 Lecture 4 ({{% resource_link 554f133c-6a07-fe69-f974-fe848ffc10da "PDF" %}})
 
 Hughes
 
@@ -205,9 +207,9 @@ Example: Asymptotics of the Bernoulli Random Walk
 {{< tdopen >}}
 
 
-2005 Lecture 6 ([PDF]({{< baseurl >}}/resources/lec06))
+2005 Lecture 6 ({{% resource_link 7ffc7ac7-0c87-ab4d-317c-d8a353efb89b "PDF" %}})
 
-2005 Lecture 7 ([PDF]({{< baseurl >}}/resources/lec07))
+2005 Lecture 7 ({{% resource_link f0bdf3d2-854d-59f1-b62c-f08cf3a58aa7 "PDF" %}})
 
 Hughes
 
@@ -236,9 +238,9 @@ Additivity of Tail Amplitudes
 {{< tdopen >}}
 
 
-2005 Lecture 5 ([PDF]({{< baseurl >}}/resources/lec05))
+2005 Lecture 5 ({{% resource_link 5d1c2ccd-7d2a-46ff-3379-d848ff5ccd89 "PDF" %}})
 
-2005 Lecture 6 ([PDF]({{< baseurl >}}/resources/lec06))
+2005 Lecture 6 ({{% resource_link 7ffc7ac7-0c87-ab4d-317c-d8a353efb89b "PDF" %}})
 
 Bouchaud and Potters
 
@@ -266,14 +268,14 @@ A Numerical Example Showing Global Accuracy and Fast Convergence of the Asymptot
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lec07_06)) (Courtesy of Damian Burch. Used with permission.)
+({{% resource_link c833a472-daec-9b58-378a-3be1ca53f8e9 "PDF" %}}) (Courtesy of Damian Burch. Used with permission.)
 
-Numerical Example ([PDF]({{< baseurl >}}/resources/dawson3)) (Courtesy of Chris H. Rycroft. Used with permission.)
+Numerical Example ({{% resource_link 702ff452-4708-7c2a-1f60-6b0549bcabbd "PDF" %}}) (Courtesy of Chris H. Rycroft. Used with permission.)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-2005 Lecture 5 ([PDF]({{< baseurl >}}/resources/lec05))
+2005 Lecture 5 ({{% resource_link 5d1c2ccd-7d2a-46ff-3379-d848ff5ccd89 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,12 +301,12 @@ Additive Versus Multiplicative Processes
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec08_06)) (Courtesy of Daniel Rudoy. Used with permission.)
+({{% resource_link 982e2cfd-c9a0-aed0-ad92-2773bee1eb5e "PDF" %}}) (Courtesy of Daniel Rudoy. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-2005 Lecture 10 ([PDF]({{< baseurl >}}/resources/lec10))
+2005 Lecture 10 ({{% resource_link fe367d40-02c9-fdb2-bb36-c1e27bb033fe "PDF" %}})
 
 Bouchaud and Potters
 
@@ -330,16 +332,16 @@ Stochastic Differentials, Wiener Process
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec09_06)) (Courtesy of Kwai Hung Henry Lam. Used with permission.)
+({{% resource_link 492d1b3e-eb4a-b9d6-d1c8-c2651bc3b8c3 "PDF" %}}) (Courtesy of Kwai Hung Henry Lam. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-2005 Lecture 8 ([PDF]({{< baseurl >}}/resources/lec08))
+2005 Lecture 8 ({{% resource_link fe27384e-7218-a6d7-3ba9-e7b41f65ca5e "PDF" %}})
 
-2005 Lecture 9 ([PDF]({{< baseurl >}}/resources/lec09))
+2005 Lecture 9 ({{% resource_link b1780b82-943d-c6c7-f88c-e033021031ad "PDF" %}})
 
-2005 Lecture 13 ([PDF]({{< baseurl >}}/resources/lec13))
+2005 Lecture 13 ({{% resource_link d53e40fb-fc77-6b5d-616f-a87b424731ce "PDF" %}})
 
 Risken
 
@@ -368,11 +370,11 @@ Modified Kramers-Moyall Cumulant Expansion for Identical Steps
 {{< tdopen >}}
 
 
-2005 Lecture 8 ([PDF]({{< baseurl >}}/resources/lec08))
+2005 Lecture 8 ({{% resource_link fe27384e-7218-a6d7-3ba9-e7b41f65ca5e "PDF" %}})
 
-2005 Lecture 9 ([PDF]({{< baseurl >}}/resources/lec09))
+2005 Lecture 9 ({{% resource_link b1780b82-943d-c6c7-f88c-e033021031ad "PDF" %}})
 
-2005 Lecture 13 ([PDF]({{< baseurl >}}/resources/lec13))
+2005 Lecture 13 ({{% resource_link d53e40fb-fc77-6b5d-616f-a87b424731ce "PDF" %}})
 
 Risken
 
@@ -404,7 +406,7 @@ Surface Growth, Kardar-Parisi-Zhang Equation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11_06)) (Courtesy of Lou Odette. Used with permission.)
+({{% resource_link b2138bcb-b1f4-c912-b128-1cf2d3427823 "PDF" %}}) (Courtesy of Lou Odette. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -458,14 +460,14 @@ Probability Generating Functions on the Integers, First Passage and Return on a 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13_06)) (Courtesy of Chris H. Rycroft. Used with permission.)
+({{% resource_link 91608996-ae9e-ae71-3e4b-664ae788f1d9 "PDF" %}}) (Courtesy of Chris H. Rycroft. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-2005 Lecture 17 ([PDF]({{< baseurl >}}/resources/lec17))
+2005 Lecture 17 ({{% resource_link a90d59d3-5b51-827f-d3e6-f1f0ab55e5b1 "PDF" %}})
 
-2005 Lecture 18 ([PDF]({{< baseurl >}}/resources/lec18))
+2005 Lecture 18 ({{% resource_link 9468d8a8-32db-c155-a684-d0a1c740c889 "PDF" %}})
 
 Hughes Redne
 
@@ -487,7 +489,7 @@ Reflection Principle and Path Counting for Lattice Random Walks, Derivation of t
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14_06)) (Courtesy of Chris H. Rycroft. Used with permission.)
+({{% resource_link cb36a293-7780-5f94-de0b-717c9b017f52 "PDF" %}}) (Courtesy of Chris H. Rycroft. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Feller
@@ -517,7 +519,7 @@ Minimum First Passage Time of a Set of N Random Walkers
 {{< tdopen >}}
 
 
-2005 Lecture 16 ([PDF]({{< baseurl >}}/resources/lec16))
+2005 Lecture 16 ({{% resource_link 86891f19-fee9-18f5-74aa-14106ff562cb "PDF" %}})
 
 Exam 2 (problem 2)
 
@@ -544,7 +546,7 @@ General Formulation in Higher Dimensions, Moments of First Passage Time, Eventua
 {{< tdopen >}}
 
 
-2005 Lecture 18 ([PDF]({{< baseurl >}}/resources/lec18))
+2005 Lecture 18 ({{% resource_link 9468d8a8-32db-c155-a684-d0a1c740c889 "PDF" %}})
 
 Redner
 
@@ -568,12 +570,12 @@ Conformal Transformations (Analytic Functions of the Plane, Stereographic Projec
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17_06)) (Courtesy of Yee Lok Wong. Used with permission.)
+({{% resource_link 1ba8c55d-b48b-cf6a-3ca4-03d6f1088ed9 "PDF" %}}) (Courtesy of Yee Lok Wong. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-2003 Lecture 23 ([PDF]({{< baseurl >}}/resources/lecture23))
+2003 Lecture 23 ({{% resource_link 8037472f-2d3b-6e54-6772-4f52aa7e2d7b "PDF" %}})
 
 An [Article](http://dx.doi.org/10.1098/rspa.2003.1218)
 
@@ -602,7 +604,7 @@ Potential Theory using Complex Analysis, Mobius Transformations, First Passage t
 {{< tdopen >}}
 
 
-2003 Lecture 23 ([PDF]({{< baseurl >}}/resources/lecture23))
+2003 Lecture 23 ({{% resource_link 8037472f-2d3b-6e54-6772-4f52aa7e2d7b "PDF" %}})
 
 Redner
 
@@ -629,9 +631,9 @@ First Passage to a Circle, Wedge/Corner, Parabola. Continuous Laplacian Growth, 
 {{< tdopen >}}
 
 
-2003 Lecture 23 ([PDF]({{< baseurl >}}/resources/lecture23))
+2003 Lecture 23 ({{% resource_link 8037472f-2d3b-6e54-6772-4f52aa7e2d7b "PDF" %}})
 
-2003 Lecture 24 ([PDF]({{< baseurl >}}/resources/lecture24))
+2003 Lecture 24 ({{% resource_link d62e743e-c096-89e2-2851-ac5e95d2b08e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -660,11 +662,11 @@ Non-identical Steps
 {{< tdopen >}}
 
 
-2003 Lectures 25 ([PDF]({{< baseurl >}}/resources/lecture25))
+2003 Lectures 25 ({{% resource_link 4061c025-286d-f768-4afd-9b82f47550e1 "PDF" %}})
 
-2003 Lecture 14 ([PDF]({{< baseurl >}}/resources/lecture14))
+2003 Lecture 14 ({{% resource_link 3d9aaedb-0629-15db-64d5-54dacb6aa8b9 "PDF" %}})
 
-2003 Lecture 15 ([PDF]({{< baseurl >}}/resources/lecture15))
+2003 Lecture 15 ({{% resource_link cc680fac-dd4d-ee91-89e8-6c6d115a7700 "PDF" %}})
 
 A [Review Article](http://de.arxiv.org/abs/cond-mat/0409439)
 
@@ -703,15 +705,15 @@ Random Walk to Model Entropic Effects in Polymers, Restoring Force for Stretchin
 {{< tdopen >}}
 
 
-2005 Lectures 19 ([PDF]({{< baseurl >}}/resources/lec19))
+2005 Lectures 19 ({{% resource_link f55c3437-9877-82c1-6c89-10266cdc6ddc "PDF" %}})
 
-2005 Lecture 20 ([PDF]({{< baseurl >}}/resources/lec20))
+2005 Lecture 20 ({{% resource_link d48ef5cc-4444-1b68-8076-03eec7b94252 "PDF" %}})
 
-2003 Lecture 9 ([PDF]({{< baseurl >}}/resources/lecture9))
+2003 Lecture 9 ({{% resource_link 46816b65-5666-94b6-18f7-d516cf515ee1 "PDF" %}})
 
-2003 Lecture 10 ([PDF]({{< baseurl >}}/resources/lecture10))
+2003 Lecture 10 ({{% resource_link 8c699d35-fafd-de8b-4741-d0aea231e706 "PDF" %}})
 
-2003 Lecture 11 ([PDF]({{< baseurl >}}/resources/lecture11))
+2003 Lecture 11 ({{% resource_link 3f103cd0-e1d0-446d-2a6a-b2855d721683 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -736,11 +738,11 @@ Superdiffusion and Limiting Levy Distributions for Steps with Infinite Variance,
 {{< tdopen >}}
 
 
-2005 Lecture 22 ([PDF]({{< baseurl >}}/resources/lec22_neville))
+2005 Lecture 22 ({{% resource_link e475dced-0972-bbbc-b582-fbb126fe6dc3 "PDF" %}})
 
-2003 Lecture 12 ([PDF]({{< baseurl >}}/resources/lecture12))
+2003 Lecture 12 ({{% resource_link 6b4ca154-5570-4f5d-a30c-e31906163324 "PDF" %}})
 
-2003 Lecture 13 ([PDF]({{< baseurl >}}/resources/lecture13))
+2003 Lecture 13 ({{% resource_link a2f70820-9431-be16-7987-94f8b1ed144b "PDF" %}})
 
 Hughes
 
@@ -772,18 +774,18 @@ DNA Gel Electrophoresis
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec23_chris_06)) (Courtesy of Michael Vahey. Used with permission.)
+({{% resource_link f3713d06-8fc4-f5de-471d-599badfa9691 "PDF" %}}) (Courtesy of Michael Vahey. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-2005 Lecture 23 ([PDF]({{< baseurl >}}/resources/lec23_chris))
+2005 Lecture 23 ({{% resource_link 03f1932a-896d-9925-ee0a-492789756c11 "PDF" %}})
 
-2003 Lecture 15 ([PDF]({{< baseurl >}}/resources/lecture15))
+2003 Lecture 15 ({{% resource_link cc680fac-dd4d-ee91-89e8-6c6d115a7700 "PDF" %}})
 
-2003 Lecture 16 ([PDF]({{< baseurl >}}/resources/lecture16))
+2003 Lecture 16 ({{% resource_link 2144e37d-ac6c-bdfe-73a5-9b77a46bfb36 "PDF" %}})
 
-2003 Lecture 17 ([PDF]({{< baseurl >}}/resources/lecture17))
+2003 Lecture 17 ({{% resource_link edf52635-b232-991d-4f94-3df29b8fdcdd "PDF" %}})
 
 
 {{< tdclose >}}
@@ -810,9 +812,9 @@ Infinite Man Waiting Time, Mittag-Leffler Decay of Fourier Modes, Time-delayed F
 {{< tdopen >}}
 
 
-2005 Lecture 24 ([PDF]({{< baseurl >}}/resources/lec24_yuxing))
+2005 Lecture 24 ({{% resource_link ee996089-2eec-f0c4-6ab1-5ab9cc854547 "PDF" %}})
 
-2003 Lecture 18 ([PDF]({{< baseurl >}}/resources/lecture18))
+2003 Lecture 18 ({{% resource_link 74e393b5-937c-bcd5-d685-f66f3ffce0f0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -839,9 +841,9 @@ Application to Flagellar Bacteria. Hughes' General Formulation of CTRW with Moti
 {{< tdopen >}}
 
 
-2005 Lecture 25 ([PDF]({{< baseurl >}}/resources/lec25_2005_rev2))
+2005 Lecture 25 ({{% resource_link db21a650-7bea-afac-5494-850ffe7133c6 "PDF" %}})
 
-2005 Lecture 26 ([PDF]({{< baseurl >}}/resources/lec26_geraint))
+2005 Lecture 26 ({{% resource_link aaabb2ff-8fcb-e8c0-8cf3-d26241df537e "PDF" %}})
 
 Hughes
 
@@ -872,7 +874,7 @@ Creeper Examples: Levy Walks, Bacterial Motion, Turbulent Dispersion
 {{< tdopen >}}
 
 
-2005 Lecture 26 ([PDF]({{< baseurl >}}/resources/lec26_geraint))
+2005 Lecture 26 ({{% resource_link aaabb2ff-8fcb-e8c0-8cf3-d26241df537e "PDF" %}})
 
 Hughes
 

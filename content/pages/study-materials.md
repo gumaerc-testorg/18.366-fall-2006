@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -44,7 +45,7 @@ History; Simple Analysis of the Isotropic Random Walk in d Dimensions, Using the
 
 {{< tdclose >}}
 {{< tdopen >}}
-Chris Rycroft ([PDF]({{< baseurl >}}/resources/lec01-1))
+Chris Rycroft ({{% resource_link 521d5db6-39ed-6c87-61c9-6fa6d1627fca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +63,7 @@ Markov Chain for the Position (in d Dimensions), Exact Solution by Fourier Trans
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ernst van Nierop ([PDF]({{< baseurl >}}/resources/lec02-1))
+Ernst van Nierop ({{% resource_link 3fb95027-0d49-8264-aeee-e27d725f7258 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +81,7 @@ Multi-dimensional CLT for Sums of IID Random Vectors (Derived by Laplace's Metho
 
 {{< tdclose >}}
 {{< tdopen >}}
-Jacy Bird ([PDF]({{< baseurl >}}/resources/lec03-1))
+Jacy Bird ({{% resource_link e9c6085c-319d-ce9a-c101-c760cefb1aa0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +99,7 @@ Gram-Charlier Expansions for Random Walks, Berry-Esseen Theorem, Width of the "C
 
 {{< tdclose >}}
 {{< tdopen >}}
-Erik Allen ([PDF]({{< baseurl >}}/resources/lec04-1))
+Erik Allen ({{% resource_link f045f528-485d-060a-f5c6-38ca88501135 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +117,7 @@ Singular Characteristic Functions, Generalized Gram-Charlier Expansions, Dawson'
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec05-1))
+({{% resource_link b2492995-c418-ebca-ca91-375ac1a53bda "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +135,7 @@ Additivity of Power-law Tails: Intuitive Explanation, "High-Order" Tauberian The
 
 {{< tdclose >}}
 {{< tdopen >}}
-Mustafa Sabri Kilic ([PDF]({{< baseurl >}}/resources/lec06-1))
+Mustafa Sabri Kilic ({{% resource_link b7b6389c-440d-e022-b92e-203fd0c2353a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +153,7 @@ Example of Saddle-point Asymptotics for a Symmetric Random Walk on the Integers,
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec07-1))
+({{% resource_link 17727ef8-7145-0c2c-3dd8-286a069c2028 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +171,7 @@ Application of the Bernoulli Walk to Percentile Order Statistics; Kramers-Moyall
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ernst van Nierop ([PDF]({{< baseurl >}}/resources/lec08-1))
+Ernst van Nierop ({{% resource_link ce3ef147-47f7-edcb-7187-5c3f350593b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +189,7 @@ Recursive Substitution in Kramers-Moyall Moment Expansion to Obtain Modified Coe
 
 {{< tdclose >}}
 {{< tdopen >}}
-Jacy Bird ([PDF]({{< baseurl >}}/resources/lec09-1))
+Jacy Bird ({{% resource_link e7a8e947-51e5-8410-c42f-2b1849576228 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +213,7 @@ Models for Financial Time Series, Additive and Multiplicative Noise, Derivative 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Erik Allen ([PDF]({{< baseurl >}}/resources/lec10-1))
+Erik Allen ({{% resource_link e11957ad-8ea2-c4be-6fcb-33af43bd89e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,9 +233,9 @@ Static Hedge to Minimize Risk, Optimal Trading by Linear Regression of the Rando
 {{< tdopen >}}
 
 
-J. F. ([PDF]({{< baseurl >}}/resources/lec11-1))
+J. F. ({{% resource_link acddcd84-90f8-d059-4a6c-11360d883e6e "PDF" %}})
 
-Additional Notes ([PDF]({{< baseurl >}}/resources/iap00_lecture-1))
+Additional Notes ({{% resource_link 602e0064-5631-6a74-7aed-3c454f12ad5e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -256,9 +257,9 @@ Riskless Hedging and Pricing on a Binomial Tree, Black-Scholes Equation in the C
 {{< tdopen >}}
 
 
-Sergiy Sidenko ([PDF]({{< baseurl >}}/resources/lec12-1))
+Sergiy Sidenko ({{% resource_link a83c0896-f179-1b8e-5f9e-88039b7332ea "PDF" %}})
 
-Additional notes on "Gram-Charlier" corrections for residual risk in Bouchaud-Sornette theory, by Ken Gosier ([PDF]({{< baseurl >}}/resources/gosier070801-1))
+Additional notes on "Gram-Charlier" corrections for residual risk in Bouchaud-Sornette theory, by Ken Gosier ({{% resource_link 0eb1ed61-d5e1-ec68-51d2-460af88b909b "PDF" %}})
 
 See also Problem Set 3.
 
@@ -280,7 +281,7 @@ Discrete Markov Processes in the Continuum Limit, Chapman-Kolomogorov Equation, 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Sergiy Sidenko ([PDF]({{< baseurl >}}/resources/lec13-1))
+Sergiy Sidenko ({{% resource_link d0caf9cc-1e1b-46c8-2ae4-d82c5cf99cec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +305,7 @@ Random Walk in an External Force Field, Einstein Relation, Boltzmann Equilibrium
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kirill Titievsky ([PDF]({{< baseurl >}}/resources/lec14-1))
+Kirill Titievsky ({{% resource_link 8c5ef8c5-b309-1209-d662-9dea90317ba6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,7 +323,7 @@ Kramers Escape Rate From a Trap, Periodic Potentials, Asymmetric Structures, Bro
 
 {{< tdclose >}}
 {{< tdopen >}}
-J. F. ([PDF]({{< baseurl >}}/resources/lec15-1))
+J. F. ({{% resource_link c7038ef5-88eb-0f82-5641-ea25a8f46dc5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,7 +347,7 @@ General Formula for the First Passage Time PDF, Smirnov Density in One Dimension
 
 {{< tdclose >}}
 {{< tdopen >}}
-Mustafa Sabri Kilic ([PDF]({{< baseurl >}}/resources/lec16-1))
+Mustafa Sabri Kilic ({{% resource_link 2c47afe1-972f-6154-78f5-8264940d027b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -364,7 +365,7 @@ Return Probability in One Dimension, Generating Functions, First Passage and Ret
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ken Kamrin ([PDF]({{< baseurl >}}/resources/lec17-1))
+Ken Kamrin ({{% resource_link 0dcf3df2-da5e-c024-9ea9-80b560e423c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -382,7 +383,7 @@ Return and First Passage on a Lattice, Polya's Theorem, Continuous First Passage
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kirill Titievsky ([PDF]({{< baseurl >}}/resources/lec18-1))
+Kirill Titievsky ({{% resource_link b6d060dd-5fc6-30aa-52ef-41aee378d4a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -406,7 +407,7 @@ Random Walk Models of Polymers, Radius of Gyration, Persistent Random Walk, Self
 
 {{< tdclose >}}
 {{< tdopen >}}
-Allison Ferguson ([PDF]({{< baseurl >}}/resources/lec19-1))
+Allison Ferguson ({{% resource_link 54d7c770-3e40-92a0-839a-56cd59446f45 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -424,7 +425,7 @@ Ballistic to Diffusive Transition, Correlated Steps, Green-Kubo Relation, Taylor
 
 {{< tdclose >}}
 {{< tdopen >}}
-Neville Sanjana ([PDF]({{< baseurl >}}/resources/lec20-1))
+Neville Sanjana ({{% resource_link aa888b6f-ad12-96dd-75a8-3ee067bfc07e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -442,7 +443,7 @@ Langevin Equations, Stratonivich vs. Ito Stochastic Differentials, Multi-dimensi
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ken Kamrin ([PDF]({{< baseurl >}}/resources/lec21_ken-1))
+Ken Kamrin ({{% resource_link bb410048-6c4b-5bf6-acd5-36f164f5572b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -466,7 +467,7 @@ Steps with Infinite Variance, Levy Stability, Levy Distributions, Generalized Ce
 
 {{< tdclose >}}
 {{< tdopen >}}
-Neville Sanjana ([PDF]({{< baseurl >}}/resources/lec22_neville-1))
+Neville Sanjana ({{% resource_link 10db34d3-791b-954d-5651-5d997b0c694f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -484,7 +485,7 @@ Random Waiting Time Between Steps, Montroll-Weiss Theory of Separable CTRW, Form
 
 {{< tdclose >}}
 {{< tdopen >}}
-Chris Rycroft ([PDF]({{< baseurl >}}/resources/lec23_chris-1))
+Chris Rycroft ({{% resource_link 185a3cd5-4f35-7099-339e-bc9e91a139dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -502,7 +503,7 @@ Continuum Limits of CTRW; Normal Diffusion Equation for Finite Mean Waiting Time
 
 {{< tdclose >}}
 {{< tdopen >}}
-Yuxing Ben ([PDF]({{< baseurl >}}/resources/lec24_yuxing-1))
+Yuxing Ben ({{% resource_link 10107a77-4a64-fe54-0122-a3e2f88773a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -520,7 +521,7 @@ CTRW Steps with Infinite Variance and Infinite Mean Waiting Time, "Phase Diagram
 
 {{< tdclose >}}
 {{< tdopen >}}
-Geraint Jones ([PDF]({{< baseurl >}}/resources/lec25_geraint-1))
+Geraint Jones ({{% resource_link 3ea28397-90ca-8748-7fd7-36b758d4457a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -538,7 +539,7 @@ Hughes' Formulation of Non-separable CTRW, Leapers: Cauchy-Smirnov Non-separable
 
 {{< tdclose >}}
 {{< tdopen >}}
-Geraint Jones ([PDF]({{< baseurl >}}/resources/lec26_geraint-1))
+Geraint Jones ({{% resource_link 1cab1b53-2074-314e-6331-15654f60a107 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -589,7 +590,7 @@ Applications (Polymers, Finance, Turbulent Diffusion,...), Green-Kubo Formula, A
 
 {{< tdclose >}}
 {{< tdopen >}}
-Marat Rvachev ([PDF]({{< baseurl >}}/resources/lecture9-1))
+Marat Rvachev ({{% resource_link 58a604fb-3d40-3909-b280-1630da3faba0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -607,7 +608,7 @@ Markov Chain for the Persistent Random Walk on the Integers; Continuum Limits: D
 
 {{< tdclose >}}
 {{< tdopen >}}
-Greg Randall ([PDF]({{< baseurl >}}/resources/lecture10-1))
+Greg Randall ({{% resource_link cb5d68d4-8351-af50-4c49-50cf64100992 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -625,7 +626,7 @@ Exact Solution of the Markov Chain Difference Equations by Discrete Fourier Tran
 
 {{< tdclose >}}
 {{< tdopen >}}
-Panadda Dechadilok ([PDF]({{< baseurl >}}/resources/lecture11-1))
+Panadda Dechadilok ({{% resource_link 01786ef7-e380-ceb0-b53f-a723429c4c1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -643,7 +644,7 @@ Strong Central Limit Theorems for 'Slowly' Diverging Variance, Symmetric Levy Di
 
 {{< tdclose >}}
 {{< tdopen >}}
-Greg Randall ([PDF]({{< baseurl >}}/resources/lecture12-1))
+Greg Randall ({{% resource_link f3723b5a-e3c9-2a88-40f1-32fc5ebee940 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -661,7 +662,7 @@ Extremes of Independent Random Variables, Frechet Distribution for Parent Distri
 
 {{< tdclose >}}
 {{< tdopen >}}
-Michael Slutsky ([PDF]({{< baseurl >}}/resources/lecture13-1))
+Michael Slutsky ({{% resource_link 6e9819b8-8a83-3287-f599-d440de51f6bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -679,7 +680,7 @@ Formal Continuum Limit with Non-identical Steps and Random Waiting Times, Time-d
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ryan Larsen ([PDF]({{< baseurl >}}/resources/lecture14-1))
+Ryan Larsen ({{% resource_link e4613bf6-c0c9-6ed8-b5ea-15cd4de4036d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -697,7 +698,7 @@ Pseudo-equivalence Between Time-dependent Step Size and Time-dependent Waiting T
 
 {{< tdclose >}}
 {{< tdopen >}}
-Nikos Savva ([PDF]({{< baseurl >}}/resources/lecture15-1))
+Nikos Savva ({{% resource_link 20317b2d-82d3-a7df-deff-272f6c2c309a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -715,7 +716,7 @@ Separable CTRW, Formulation in Terms of Random Number of Steps in a given Time I
 
 {{< tdclose >}}
 {{< tdopen >}}
-Greg Randall ([PDF]({{< baseurl >}}/resources/lecture16-1))
+Greg Randall ({{% resource_link 1ec404b8-348e-2447-fa41-ca145ea83234 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -733,7 +734,7 @@ Montroll-Weiss Theory of Separable CTRW in Terms of the Random Waiting Time, Mom
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kevin Chu ([PDF]({{< baseurl >}}/resources/lecture17-1))
+Kevin Chu ({{% resource_link 79022f40-d6f4-3ead-7d7f-bece432de9e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -751,7 +752,7 @@ Continuum Limits of CTRW; Normal Diffusion Equation for Finite Mean Waiting Time
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ahmed Ismail ([PDF]({{< baseurl >}}/resources/lecture18-1))
+Ahmed Ismail ({{% resource_link b8b6e619-f9f7-c211-f0fa-18421c95162d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -769,7 +770,7 @@ Diffusion-limited Solidification/Melting, Viscous Fingering in Porous Media or H
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ahmed Ismail ([PDF]({{< baseurl >}}/resources/lecture23-1))
+Ahmed Ismail ({{% resource_link ec3492ab-3632-cab8-f400-1f16548b57e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -787,7 +788,7 @@ Polubarinova-Galin Equation for the Map From the Unit Circle, ODEs for Laurent C
 
 {{< tdclose >}}
 {{< tdopen >}}
-Thierry Savin ([PDF]({{< baseurl >}}/resources/lecture24-1))
+Thierry Savin ({{% resource_link 047b2839-1b8f-0049-c36d-ed77c6f85f21 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -805,7 +806,7 @@ Diffusion-limited Aggregation, Fractal Growth; Hastings-Levitov Iterated Conform
 
 {{< tdclose >}}
 {{< tdopen >}}
-Michael Slutsky ([PDF]({{< baseurl >}}/resources/lecture25-1))
+Michael Slutsky ({{% resource_link 1277ed1b-94bb-6afe-a6cd-598b0e2ec3ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
