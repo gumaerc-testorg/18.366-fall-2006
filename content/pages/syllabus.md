@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains an overview and list of materials for the course,
+  grading criteria participation guidelines and a guide to the instructor?s evaluation
+  of case write-ups.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 47bf5228-1848-d1b3-5243-0a42d016b248
 ---
