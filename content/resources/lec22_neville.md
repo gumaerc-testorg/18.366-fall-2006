@@ -8,6 +8,7 @@ file: /courses/18-366-random-walks-and-diffusion-fall-2006/e475dced0972bbbcb582f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: e475dced-0972-bbbc-b582-fbb126fe6dc3
 ---
 This file includes the following topics:
 Central?Limit?theorem, Levy?stability?laws, Levy?distribution, and analogy with central Limit theorem.
-

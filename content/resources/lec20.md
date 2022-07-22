@@ -8,6 +8,7 @@ file: /courses/18-366-random-walks-and-diffusion-fall-2006/d48ef5cc44441b6880760
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: d48ef5cc-4444-1b68-8076-03eec7b94252
 ---
 This file includes the following topics:
 Overview and simple models, simplest models, random walk with correlated steps, and exponentially decaying correlations.
-

@@ -8,6 +8,7 @@ file: /courses/18-366-random-walks-and-diffusion-fall-2006/ee9960892eecf0c46ab15
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: ee996089-2eec-f0c4-6ab1-5ab9cc854547
 ---
 This file includes the following topics:
 Separable CTRW (continuous random walk), normal diffusion, super diffusion, and subdiffusion.
-

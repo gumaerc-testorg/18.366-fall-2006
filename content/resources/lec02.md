@@ -6,6 +6,7 @@ file: /courses/18-366-random-walks-and-diffusion-fall-2006/52f5cd1ad7315858f2759
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec02.pdf
 uid: 52f5cd1a-d731-5858-f275-9bdc2636ba0e
 ---
 Includes topics: The?position?of?a random?walk, moments?and cumulants, and additivity of cumulants.
-

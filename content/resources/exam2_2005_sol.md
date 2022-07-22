@@ -5,6 +5,7 @@ file: /courses/18-366-random-walks-and-diffusion-fall-2006/014e427fb9bf9b213e7f6
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam2_2005_sol.pdf
 uid: 014e427f-b9bf-9b21-3e7f-625ef72a8f3d
 ---
 This resource provides solutions to exam 2 on random walks and diffusion.
-

@@ -7,6 +7,7 @@ file: /courses/18-366-random-walks-and-diffusion-fall-2006/03f1932a896d9925ee0a4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 03f1932a-896d-9925-ee0a-492789756c11
 ---
 This file includes the following topics:
 Anomalous diffusion, random waiting times, and continuous time random walk.
-

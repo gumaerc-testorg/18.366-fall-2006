@@ -5,6 +5,7 @@ file: /courses/18-366-random-walks-and-diffusion-fall-2006/9468d8a832dbc155a684d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

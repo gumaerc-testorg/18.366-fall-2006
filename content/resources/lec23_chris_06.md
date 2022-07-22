@@ -6,6 +6,7 @@ file: /courses/18-366-random-walks-and-diffusion-fall-2006/f3713d068fc4f5de471d5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec23_chris_06.pdf
 uid: f3713d06-8fc4-f5de-471d-599badfa9691
 ---
 This resource contains information about Laplace Transforms, Random Waiting Times (Renewal Theory), Continuous Time Random Walks (CTRW)
-
