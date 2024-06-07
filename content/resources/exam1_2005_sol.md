@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides solutions to exam 1 on random walks and diffusion.
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/4b1127e02d6e94805847e09b5b14665a_exam1_2005_sol.pdf
+file_size: 192198
 file_type: application/pdf
 learning_resource_types:
 - Exams

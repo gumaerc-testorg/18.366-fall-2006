@@ -4,6 +4,7 @@ description: 'Includes topics: Physical model, biased Bernoulli walk, biased con
   stochastic process, diffusion in a harmonic potential, PDF of the Ornstein-Uhlenbeck
   process, and derivation from the stochastic differential equation.'
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/0a8bdd9c04730a715ad5d54640a3702a_lec14.pdf
+file_size: 172659
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/aef0a2690183294e59ea8cb29f8dd448_lec01.pdf
+file_size: 232298
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
