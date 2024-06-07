@@ -4,6 +4,7 @@ description: 'Includes topics: Continuum approximation of the position of?a?rand
   recursive substitution in the Kramers-Moyall expansion, and Gram-Charlier expansion
   for?the green function.'
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/b1780b82943dc6c7f88ce033021031ad_lec09.pdf
+file_size: 168846
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

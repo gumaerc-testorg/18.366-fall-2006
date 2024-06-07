@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about Approximations using Dawson?s
   integral, Simulations.
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/702ff45247087c2a1f606b0549bcabbd_dawson3.pdf
+file_size: 126665
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
