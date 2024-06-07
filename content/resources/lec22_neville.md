@@ -5,6 +5,7 @@ description: 'This file includes the following topics:
   Central?Limit?theorem, Levy?stability?laws, Levy?distribution, and analogy with
   central Limit theorem.'
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/e475dced0972bbbcb582fbb126fe6dc3_lec22_neville.pdf
+file_size: 173568
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

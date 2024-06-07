@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/10db34d3791b954d56515d997b0c694f_lec22_neville.pdf
+file_size: 173268
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
