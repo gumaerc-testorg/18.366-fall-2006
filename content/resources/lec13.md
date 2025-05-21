@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Includes topics: Discrete?Markov?processes, continuous?stochastic?processes.'
-file: /ol-ocw-studio-app/courses/18-366-random-walks-and-diffusion-fall-2006/d53e40fbfc776b5d616fa87b424731ce_lec13.pdf
+file: /courses/18-366-random-walks-and-diffusion-fall-2006/d53e40fbfc776b5d616fa87b424731ce_lec13.pdf
 file_size: 153715
 file_type: application/pdf
 learning_resource_types:

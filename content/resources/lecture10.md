@@ -4,7 +4,7 @@ description: 'This file includes review from last lecture along with the followi
   topics:
 
   Persistent random walk: definition, difference equations.'
-file: /ol-ocw-studio-app/courses/18-366-random-walks-and-diffusion-fall-2006/8c699d35fafdde8b4741d0aea231e706_lecture10.pdf
+file: /courses/18-366-random-walks-and-diffusion-fall-2006/8c699d35fafdde8b4741d0aea231e706_lecture10.pdf
 file_size: 147921
 file_type: application/pdf
 learning_resource_types:

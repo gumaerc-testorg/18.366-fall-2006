@@ -4,7 +4,7 @@ description: 'This file includes the following topics:
 
   Overview and simple models, simplest models, random walk with correlated steps,
   and exponentially decaying correlations.'
-file: /ol-ocw-studio-app/courses/18-366-random-walks-and-diffusion-fall-2006/d48ef5cc44441b68807603eec7b94252_lec20.pdf
+file: /courses/18-366-random-walks-and-diffusion-fall-2006/d48ef5cc44441b68807603eec7b94252_lec20.pdf
 file_size: 151841
 file_type: application/pdf
 learning_resource_types:

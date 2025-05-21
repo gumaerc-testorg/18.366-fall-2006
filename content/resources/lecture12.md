@@ -4,7 +4,7 @@ description: 'This file includes the following topics:
 
   Borderline cases of the CLT, Levy distributions, Levy flights, and examples of Levy
   flights.'
-file: /ol-ocw-studio-app/courses/18-366-random-walks-and-diffusion-fall-2006/6b4ca15455704f5da30ce31906163324_lecture12.pdf
+file: /courses/18-366-random-walks-and-diffusion-fall-2006/6b4ca15455704f5da30ce31906163324_lecture12.pdf
 file_size: 203433
 file_type: application/pdf
 learning_resource_types:
