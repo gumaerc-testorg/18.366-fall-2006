@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file includes the following topics:
 
   Einstein''s theory, Langevin''s theory, and Kramer''s theory.'
-file: /ol-ocw-studio-app/courses/18-366-random-walks-and-diffusion-fall-2006/22737f43fbc8b4bb4cd49df67988ef66_lec21_ken.pdf
+file: /courses/18-366-random-walks-and-diffusion-fall-2006/22737f43fbc8b4bb4cd49df67988ef66_lec21_ken.pdf
 file_size: 112736
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This lecture considers the analysis of the non-separable CTRW in which
   the distributions of step size and time between steps are dependent, considering
   two special cases: leapers, and creepers.'
-file: /ol-ocw-studio-app/courses/18-366-random-walks-and-diffusion-fall-2006/aaabb2ff8fcbe8c08cf3d26241df537e_lec26_geraint.pdf
+file: /courses/18-366-random-walks-and-diffusion-fall-2006/aaabb2ff8fcbe8c08cf3d26241df537e_lec26_geraint.pdf
 file_size: 241494
 file_type: application/pdf
 learning_resource_types:
