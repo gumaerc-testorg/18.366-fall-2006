@@ -4,7 +4,7 @@ description: 'This file includes the following topics:
 
   Formulations and transforms, examples of Poisson processes, and relation to the
   formulation.'
-file: /courses/18-366-random-walks-and-diffusion-fall-2006/2144e37dac6cbdfe73a59b77a46bfb36_lecture16.pdf
+file: /ol-ocw-studio-app/courses/18-366-random-walks-and-diffusion-fall-2006/2144e37dac6cbdfe73a59b77a46bfb36_lecture16.pdf
 file_size: 174884
 file_type: application/pdf
 learning_resource_types:
