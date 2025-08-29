@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-366-random-walks-and-diffusion-fall-2006/b8b6e619f9f7c211f0fa18421c95162d_lecture18.pdf
+file: /ol-ocw-studio-app/courses/18-366-random-walks-and-diffusion-fall-2006/b8b6e619f9f7c211f0fa18421c95162d_lecture18.pdf
 file_size: 204380
 file_type: application/pdf
 learning_resource_types: []
