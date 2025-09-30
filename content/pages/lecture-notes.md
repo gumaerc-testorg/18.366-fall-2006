@@ -577,7 +577,7 @@ Conformal Transformations (Analytic Functions of the Plane, Stereographic Projec
 
 2003 Lecture 23 ({{% resource_link 8037472f-2d3b-6e54-6772-4f52aa7e2d7b "PDF" %}})
 
-An [Article](http://dx.doi.org/10.1098/rspa.2003.1218)
+An {{% resource_link "297df454-930c-4259-8742-64d1cfff236d" "Article" %}}
 
 Redner
 
@@ -668,7 +668,7 @@ Non-identical Steps
 
 2003 Lecture 15 ({{% resource_link cc680fac-dd4d-ee91-89e8-6c6d115a7700 "PDF" %}})
 
-A [Review Article](http://de.arxiv.org/abs/cond-mat/0409439)
+A {{% resource_link "d6d1f3ad-953b-432a-8f0b-e75b89310a74" "Review Article" %}}
 
 
 {{< tdclose >}}
